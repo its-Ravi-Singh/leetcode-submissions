@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0213-house-robber-ii) |
 | [1143-longest-common-subsequence](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1143-longest-common-subsequence) |
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0213-house-robber-ii) |
 <!---LeetCode Topics End-->
