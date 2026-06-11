@@ -1,16 +1,17 @@
 class Solution:
     def longestCommonSubsequence(self, x: str, y: str) -> int:
-        dp = {}
-        def lcs(x: str, y: str, n:  int, m: int) -> int:
-            if n == 0 or m == 0 :
+        m = len(x)
+        n = len(y)
+        dp = [[-1 for _ in range(n+1)] for _ in range(m+1)]
+        def lcs(x, y, m, n):
+            if n == 0 or m == 0:
                 return 0
-
-            if (n, m) in dp:
-                return dp[(n,m)]
-
-            if x[n-1] == y[m-1] :
-                dp[(n,m)] = 1 + lcs(x, y, n-1, m-1)
+            if dp[m][n] != -1:
+                return dp[m][n]
+            if x[m-1] == y[n-1]:
+                dp[m][n] = 1 + lcs(x, y, m-1, n-1)
+                return dp[m][n]
             else:
-                dp[(n,m)] = max(lcs(x, y, n-1, m), lcs(x, y, n, m-1))
-            return dp[(n,m)]
-        return lcs(x, y, len(x), len(y))
+                dp[m][n] = max(lcs(x, y, m-1, n), lcs(x, y, m, n-1))
+                return dp[m][n]
+        return lcs(x, y, m, n)
