@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1143-longest-common-subsequence) |
+| [3612-process-string-with-special-operations-i](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/3838-weighted-word-mapping) |
 ## Linked List
 |  |
