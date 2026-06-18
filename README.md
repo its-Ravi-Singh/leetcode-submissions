@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1344-angle-between-hands-of-a-clock](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Bit Manipulation
 |  |
