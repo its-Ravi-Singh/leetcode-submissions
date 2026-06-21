@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0213-house-robber-ii) |
 | [1732-find-the-highest-altitude](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1840-maximum-building-height) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3838-weighted-word-mapping](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/3838-weighted-word-mapping) |
@@ -69,5 +70,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1840-maximum-building-height) |
+## Greedy
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
