@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0213-house-robber-ii) |
 | [1143-longest-common-subsequence](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1143-longest-common-subsequence) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Array
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Sorting
 |  |
 | ------- |
