@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -82,10 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Greedy
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Counting Sort
 |  |
 | ------- |
