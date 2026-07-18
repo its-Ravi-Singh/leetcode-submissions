@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [1143-longest-common-subsequence](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0198-house-robber](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0217-contains-duplicate) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [1288-remove-covered-intervals](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [1189-maximum-number-of-balloons](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
