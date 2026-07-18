@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0001-two-sum) |
 | [0198-house-robber](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0494-target-sum](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0494-target-sum) |
 | [1288-remove-covered-intervals](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1301-number-of-paths-with-max-score) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [1288-remove-covered-intervals](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1840-maximum-building-height) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [1189-maximum-number-of-balloons](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
