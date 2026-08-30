@@ -4,6 +4,7 @@ class Solution:
         if n <= 1:
             return n
         for i in range(2, n+1):
+            lru_cache(None)
             temp = prev1 + prev2
             prev1, prev2 = temp, prev1
         return prev1
