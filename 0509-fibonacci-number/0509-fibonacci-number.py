@@ -1,14 +1,9 @@
 class Solution:
-    def fib(self, n: int, dp: list = []) -> int:
-        # DP Memoization Method
-        if not dp:
-            dp = [-1 for i in range(n+1)]
-        
+    def fib(self, n: int, prev1: int = 1, prev2: int = 0) -> int:
+        # DP Memoization Method more optimise with only 2 var
         if n <= 1:
             return n
-
-        if dp[n] != -1:
-            return dp[n]
-        
-        dp[n] = self.fib(n-1, dp) + self.fib(n-2, dp)
-        return dp[n]
+        for i in range(2, n+1):
+            temp = prev1 + prev2
+            prev1, prev2 = temp, prev1
+        return prev1
