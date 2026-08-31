@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0213-house-robber-ii) |
 | [0494-target-sum](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0494-target-sum) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0507-perfect-number](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0509-fibonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -236,5 +238,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
