@@ -1,10 +1,9 @@
 class Solution:
-    def climbStairs(self, n: int, dp: list = []) -> int:
-        if not dp:
-            dp = [-1 for i in range(n+1)]
-        if dp[n] != -1:
-            return dp[n]
-        if n <= 1:
-            return 1
-        dp[n] = self.climbStairs(n-1, dp) + self.climbStairs(n-2, dp)
-        return dp[n]
+    def climbStairs(self, n: int) -> int:
+        if n <= 2:
+            return n
+        first = 1
+        second = 2
+        for i in range(3, n+1):
+            first, second = second, first + second
+        return second
