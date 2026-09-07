@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0213-house-robber-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0217-contains-duplicate) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
