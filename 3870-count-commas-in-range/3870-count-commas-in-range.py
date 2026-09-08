@@ -1,4 +1,4 @@
 import math
 class Solution:
     def countCommas(self, n: int) -> int:
-        return max(n-999, 0)
+        return n-999 if math.log10(n) >= 3 else 0
