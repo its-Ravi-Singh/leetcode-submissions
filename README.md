@@ -92,10 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Simulation
@@ -264,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0062-unique-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
