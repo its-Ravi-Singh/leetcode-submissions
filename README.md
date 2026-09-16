@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3612-process-string-with-special-operations-i](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/3838-weighted-word-mapping) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1301-number-of-paths-with-max-score) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Counting Sort
 |  |
 | ------- |
