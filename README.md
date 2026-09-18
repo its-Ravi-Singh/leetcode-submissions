@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3612-process-string-with-special-operations-i](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/3612-process-string-with-special-operations-i) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [1288-remove-covered-intervals](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1288-remove-covered-intervals) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3483-unique-3-digit-even-numbers](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/3483-unique-3-digit-even-numbers) |
