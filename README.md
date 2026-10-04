@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0049-group-anagrams) |
+| [0678-valid-parenthesis-string](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0213-house-robber-ii) |
 | [0494-target-sum](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1143-longest-common-subsequence) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Prefix Sum
 |  |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -296,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
