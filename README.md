@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0678-valid-parenthesis-string](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1021-remove-outermost-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Prefix Sum
 |  |
@@ -304,4 +306,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
