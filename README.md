@@ -307,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1021-remove-outermost-parentheses) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/its-Ravi-Singh/leetcode-submissions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
